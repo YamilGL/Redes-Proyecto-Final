@@ -1,6 +1,7 @@
 ## Redes-proyecto-Final
-#Descripción
-este proyecto trata de entrenar una red neuronal de manera distribuida, utilizando protocolos de conexión como TCP y UDP implementando checksum,n-seq, keep-alive. La red neuronal aprenderá a jugar el juego TIC TAC
+# Descripción
+Este proyecto trata de entrenar una red neuronal de manera distribuida, utilizando protocolos de conexión como TCP y UDP 
+Emplementando checksum,n-seq, keep-alive. La red neuronal aprenderá a jugar el juego TIC TAC
 
 # Compilar Server
 Servidor:./Serv
